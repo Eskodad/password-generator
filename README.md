@@ -26,7 +26,7 @@ Smaller devices screen:
 ### Open your favorite web browser and enter the following web address to access.
 
 ```html
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+https://eskodad.github.io/password-generator/.
 ```
 <a name="usage"></a>
 ## 3. Usage Tips
