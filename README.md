@@ -51,19 +51,19 @@ Steps to have a successful password generated.
 #### Incorrect criteria will cause application to restart. ####
 #### If you wish to exit the application, please close the browser tab. ####
 
-![nav-menu](./assets/images/enter-criteria.JPG?raw=true "Navigational Menu")
+![nav-menu](./assets/images/enter-criteria.JPG?raw=true "Navigation Menu")
 
 ### Read the lenght rules. That is from 8-128 characters. E.g 20.
 
-![nav-menu](./assets/images/enter-lenght.JPG?raw=true "Navigational Menu")
+![nav-menu](./assets/images/enter-length.JPG?raw=true "Navigation Menu")
 
 ### Enter the desired lenght
 
-![nav-menu](./assets/images/enter-lenght-integer.JPG?raw=true "Navigational Menu")
+![nav-menu](./assets/images/enter-length-integer.JPG?raw=true "Navigation Menu")
 
 ### Lenght selected confirmation
 
-![nav-menu](./assets/images/enter-lenght-integer-confirmation.JPG?raw=true "Navigational Menu")
+! [nav-menu](./assets/images/enter-length-integer-confirmation.JPG?raw=true "Navigation Menu")
 
 ### End result - test of 20 performed. Copy and paste you password. Note that you cannot type once the password has been provided for security.
 
