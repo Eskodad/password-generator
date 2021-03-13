@@ -52,7 +52,7 @@ Steps to have a successful password generated.
 #### Incorrect criteria will cause application to restart. ####
 #### If you wish to exit the application, please close the browser tab. ####
 
-![nav-menu](./assets/images/enter-criteria.JPG?raw=true "Navigation Menu")
+https://github.com/Eskodad/password-generator/issues/1#issue-830731780
 
 ### Read the lenght rules. That is from 8-128 characters. E.g 20.
 
