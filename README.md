@@ -45,7 +45,7 @@ Steps to have a successful password generated.
 
 ### Possible criteria options
 
-![nav-menu](./assets/images/criteria-options.JPG.png?raw=true "Navigation Menu")
+![nav-menu](./assets/images/criteria-options.JPG?raw=true "Navigation Menu")
 
 ### Enter criteria options: enter the integer corresponiding to the option you want.
 #### Leave  space between the criteria selected. ####
@@ -57,11 +57,11 @@ Steps to have a successful password generated.
 
 ### Read the lenght rules. That is from 8-128 characters. E.g 20.
 
-![nav-menu](./assets/images/enter-length.JPG.png?raw=true "Navigation Menu")
+![nav-menu](./assets/images/enter-length.JPG?raw=true "Navigation Menu")
 
 ### Enter the desired lenght
 
-![nav-menu](./assets/images/enter-length-integer.JPG.png?raw=true "Navigation Menu")
+![nav-menu](./assets/images/enter-length-integer.JPG?raw=true "Navigation Menu")
 
 ### Lenght selected confirmation
 
