@@ -81,6 +81,3 @@ Pull requests are welcome. For major changes, please open let repository owner k
 ## 5. License
 None
 
-
-
-# password-generator
