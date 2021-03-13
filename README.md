@@ -26,7 +26,8 @@ Smaller devices screen:
 ### Open your favorite web browser and enter the following web address to access.
 
 ```html
-Web URL: https://eskodad.github.io/password-generator/.
+Web URL: https://eskodad.github.io/password-generator/
+
 GitHub URL: https://github.com/Eskodad/password-generator/
 ```
 <a name="usage"></a>
@@ -56,11 +57,11 @@ Steps to have a successful password generated.
 
 ### Read the lenght rules. That is from 8-128 characters. E.g 20.
 
-![nav-menu](./assets/images/enter-length.JPG?raw=true "Navigation Menu")
+![nav-menu](./assets/images/enter-length.JPG.png?raw=true "Navigation Menu")
 
 ### Enter the desired lenght
 
-![nav-menu](./assets/images/enter-length-integer.JPG?raw=true "Navigation Menu")
+![nav-menu](./assets/images/enter-length-integer.JPG.png?raw=true "Navigation Menu")
 
 ### Lenght selected confirmation
 
