@@ -44,7 +44,7 @@ Steps to have a successful password generated.
 
 ### Possible criteria options
 
-![nav-menu](./assets/images/criteria-options.JPG?raw=true "Navigation Menu")
+![nav-menu](./assets/images/criteria-options.JPG.png?raw=true "Navigation Menu")
 
 ### Enter criteria options: enter the integer corresponiding to the option you want.
 #### Leave  space between the criteria selected. ####
